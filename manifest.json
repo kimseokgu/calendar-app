@@ -2,7 +2,7 @@
   "name": "캘린더 · 할 일",
   "short_name": "캘린더",
   "description": "PC와 폰에서 함께 쓰는 캘린더 & 할 일 앱",
-  "start_url": "/index.html",
+  "start_url": "/calendar-app/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#1a73e8",
